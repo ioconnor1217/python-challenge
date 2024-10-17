@@ -72,6 +72,6 @@ summary = (
 # Print the output
 print(summary)
 
-"""# Write the results to a text file
+# Write the results to a text file
 with open(file_to_output, "w") as txt:
-    txt.write(summary)"""
+    txt.write(summary)
