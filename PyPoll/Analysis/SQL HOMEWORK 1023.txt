@@ -1,0 +1,15 @@
+SQL HOMEWORK 10/23:
+
+lookups queries
+- for all tables
+
+form
+- where need screens for add/change/delete
+- for adding/changing/deleting
+
+add report
+- figure it out
+- needs a query to work
+
+do the sql test
+- record results
